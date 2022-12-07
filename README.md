@@ -1,0 +1,2 @@
+# FastAttack
+source fa  bloxfruit
